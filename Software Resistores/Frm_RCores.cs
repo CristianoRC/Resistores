@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Eletrônica_Software
+namespace SoftwareResistores
 {
     public partial class Frm_RCores : Form
     {
@@ -29,43 +29,43 @@ namespace Eletrônica_Software
             {
 
                 case "Preto":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rPreto;
+                    Cinta1.Image = Properties.Resources.rPreto;
 
                     break;
                 case "Marrom":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rMarrom;
+                    Cinta1.Image = Properties.Resources.rMarrom;
 
                     break;
                 case "Vermelho":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rVermelho;
+                    Cinta1.Image = Properties.Resources.rVermelho;
 
                     break;
                 case "Laranja":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rLaranja;
+                    Cinta1.Image = Properties.Resources.rLaranja;
 
                     break;
                 case "Amarelo":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rAmarelo;
+                    Cinta1.Image = Properties.Resources.rAmarelo;
 
                     break;
                 case "Verde":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rVerde;
+                    Cinta1.Image = Properties.Resources.rVerde;
 
                     break;
                 case "Azul":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rAzul;
+                    Cinta1.Image = Properties.Resources.rAzul;
 
                     break;
                 case "Violeta":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rVioleta;
+                    Cinta1.Image = Properties.Resources.rVioleta;
 
                     break;
                 case "Cinza":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rCinza;
+                    Cinta1.Image = Properties.Resources.rCinza;
 
                     break;
                 case "Branco":
-                    Cinta1.Image = Eletrônica_Software.Properties.Resources.rBranco;
+                    Cinta1.Image = Properties.Resources.rBranco;
 
                     break;
             }
@@ -94,43 +94,43 @@ namespace Eletrônica_Software
             {
 
                 case "Preto":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rPreto;
+                    Cinta2.Image = Properties.Resources.rPreto;
 
                     break;
                 case "Marrom":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rMarrom;
+                    Cinta2.Image = Properties.Resources.rMarrom;
 
                     break;
                 case "Vermelho":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rVermelho;
+                    Cinta2.Image = Properties.Resources.rVermelho;
 
                     break;
                 case "Laranja":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rLaranja;
+                    Cinta2.Image = Properties.Resources.rLaranja;
 
                     break;
                 case "Amarelo":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rAmarelo;
+                    Cinta2.Image = Properties.Resources.rAmarelo;
 
                     break;
                 case "Verde":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rVerde;
+                    Cinta2.Image = Properties.Resources.rVerde;
 
                     break;
                 case "Azul":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rAzul;
+                    Cinta2.Image = Properties.Resources.rAzul;
 
                     break;
                 case "Violeta":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rVioleta;
+                    Cinta2.Image = Properties.Resources.rVioleta;
 
                     break;
                 case "Cinza":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rCinza;
+                    Cinta2.Image = Properties.Resources.rCinza;
 
                     break;
                 case "Branco":
-                    Cinta2.Image = Eletrônica_Software.Properties.Resources.rBranco;
+                    Cinta2.Image = Properties.Resources.rBranco;
 
                     break;
             }
@@ -157,43 +157,43 @@ namespace Eletrônica_Software
             {
 
                 case "Preto":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rPreto;
+                    Cinta3.Image = Properties.Resources.rPreto;
 
                     break;
                 case "Marrom":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rMarrom;
+                    Cinta3.Image = Properties.Resources.rMarrom;
 
                     break;
                 case "Vermelho":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rVermelho;
+                    Cinta3.Image = Properties.Resources.rVermelho;
 
                     break;
                 case "Laranja":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rLaranja;
+                    Cinta3.Image = Properties.Resources.rLaranja;
 
                     break;
                 case "Amarelo":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rAmarelo;
+                    Cinta3.Image = Properties.Resources.rAmarelo;
 
                     break;
                 case "Verde":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rVerde;
+                    Cinta3.Image = Properties.Resources.rVerde;
 
                     break;
                 case "Azul":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rAzul;
+                    Cinta3.Image = Properties.Resources.rAzul;
 
                     break;
                 case "Violeta":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rVioleta;
+                    Cinta3.Image = Properties.Resources.rVioleta;
 
                     break;
                 case "Cinza":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rCinza;
+                    Cinta3.Image = Properties.Resources.rCinza;
 
                     break;
                 case "Branco":
-                    Cinta3.Image = Eletrônica_Software.Properties.Resources.rBranco;
+                    Cinta3.Image = Properties.Resources.rBranco;
 
                     break;
             }
@@ -221,15 +221,15 @@ namespace Eletrônica_Software
             {
 
                 case "Ouro":
-                    Cinta4.Image = Eletrônica_Software.Properties.Resources.rOuro;
+                    Cinta4.Image = Properties.Resources.rOuro;
 
                     break;
                 case "Prata":
-                    Cinta4.Image = Eletrônica_Software.Properties.Resources.rPrata;
+                    Cinta4.Image = Properties.Resources.rPrata;
 
                     break;
                 case "Nenhum":
-                    Cinta4.Image = Eletrônica_Software.Properties.Resources.rNada;
+                    Cinta4.Image = Properties.Resources.rNada;
 
                     break;
             }

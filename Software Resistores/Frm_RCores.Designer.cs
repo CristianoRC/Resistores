@@ -1,4 +1,4 @@
-﻿namespace Eletrônica_Software
+﻿namespace SoftwareResistores
 {
     partial class Frm_RCores
     {
@@ -153,7 +153,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::Eletrônica_Software.Properties.Resources.rNada;
+            this.pictureBox2.Image = global::SoftwareResistores.Properties.Resources.rNada;
             this.pictureBox2.Location = new System.Drawing.Point(292, 30);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(10, 90);
@@ -163,7 +163,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Image = global::Eletrônica_Software.Properties.Resources.resr;
+            this.pictureBox6.Image = global::SoftwareResistores.Properties.Resources.resr;
             this.pictureBox6.Location = new System.Drawing.Point(307, 30);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(24, 90);
@@ -173,7 +173,7 @@
             // 
             // Cinta4
             // 
-            this.Cinta4.Image = global::Eletrônica_Software.Properties.Resources.rNada;
+            this.Cinta4.Image = global::SoftwareResistores.Properties.Resources.rNada;
             this.Cinta4.Location = new System.Drawing.Point(302, 30);
             this.Cinta4.Name = "Cinta4";
             this.Cinta4.Size = new System.Drawing.Size(5, 90);
@@ -183,7 +183,7 @@
             // 
             // Cinta3
             // 
-            this.Cinta3.Image = global::Eletrônica_Software.Properties.Resources.rNada;
+            this.Cinta3.Image = global::SoftwareResistores.Properties.Resources.rNada;
             this.Cinta3.Location = new System.Drawing.Point(282, 30);
             this.Cinta3.Name = "Cinta3";
             this.Cinta3.Size = new System.Drawing.Size(10, 90);
@@ -193,7 +193,7 @@
             // 
             // Cinta2
             // 
-            this.Cinta2.Image = global::Eletrônica_Software.Properties.Resources.rNada;
+            this.Cinta2.Image = global::SoftwareResistores.Properties.Resources.rNada;
             this.Cinta2.Location = new System.Drawing.Point(272, 30);
             this.Cinta2.Name = "Cinta2";
             this.Cinta2.Size = new System.Drawing.Size(10, 90);
@@ -203,7 +203,7 @@
             // 
             // Cinta1
             // 
-            this.Cinta1.Image = global::Eletrônica_Software.Properties.Resources.rNada;
+            this.Cinta1.Image = global::SoftwareResistores.Properties.Resources.rNada;
             this.Cinta1.Location = new System.Drawing.Point(262, 30);
             this.Cinta1.Name = "Cinta1";
             this.Cinta1.Size = new System.Drawing.Size(10, 90);
@@ -213,7 +213,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Eletrônica_Software.Properties.Resources.resl;
+            this.pictureBox1.Image = global::SoftwareResistores.Properties.Resources.resl;
             this.pictureBox1.Location = new System.Drawing.Point(239, 30);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(24, 90);

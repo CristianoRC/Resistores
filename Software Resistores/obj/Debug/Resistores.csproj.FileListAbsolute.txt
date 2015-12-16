@@ -7,3 +7,12 @@ C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletr�
 C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Resistores.csproj.GenerateResource.Cache
 C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Resistores.exe
 C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Resistores.pdb
+C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.exe.config
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\Resistores.exe
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\Resistores.pdb
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\Resistores.csprojResolveAssemblyReference.cache
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Properties.Resources.resources
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\Resistores.csproj.GenerateResource.Cache
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_RCores.resources
+C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.exe
+C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.pdb

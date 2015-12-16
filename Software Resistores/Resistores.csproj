@@ -7,7 +7,7 @@
     <ProjectGuid>{E3D44F7B-ECE5-4C52-B888-2214605C8B6C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Eletrônica_Software</RootNamespace>
+    <RootNamespace>SoftwareResistores</RootNamespace>
     <AssemblyName>Resistores</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -53,7 +53,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Comunicacao.cs" />
     <Compile Include="Frm_RCores.cs">
       <SubType>Form</SubType>
     </Compile>
