@@ -16,3 +16,4 @@ C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\Resistores.csproj
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_RCores.resources
 C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.exe
 C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.pdb
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_Pai.resources

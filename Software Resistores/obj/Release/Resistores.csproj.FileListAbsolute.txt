@@ -16,3 +16,4 @@ C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\Resistores.cspr
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\SoftwareResistores.Frm_RCores.resources
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\SoftwareResistores.Properties.Resources.resources
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\Resistores.csproj.GenerateResource.Cache
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\SoftwareResistores.Frm_Pai.resources

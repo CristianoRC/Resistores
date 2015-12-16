@@ -53,6 +53,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Frm_Pai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Pai.Designer.cs">
+      <DependentUpon>Frm_Pai.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_RCores.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +67,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Frm_Pai.resx">
+      <DependentUpon>Frm_Pai.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Frm_RCores.resx">
       <DependentUpon>Frm_RCores.cs</DependentUpon>
     </EmbeddedResource>
