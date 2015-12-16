@@ -1,0 +1,30 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.exe.config
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.csprojResolveAssemblyReference.cache
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica_Software.Frm_Pai.resources
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica_Software.Properties.Resources.resources
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.csproj.GenerateResource.Cache
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica_Software.Frm_RCores.resources
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica_Software.Frm_Sobre.resources
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.csprojResolveAssemblyReference.cache
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica_Software.Frm_RCores.resources
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.csproj.GenerateResource.Cache
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.exe
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.pdb
+D:\Projetos\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.exe.config
+D:\Projetos\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.exe
+D:\Projetos\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.pdb
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica_Software.Properties.Resources.resources
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.exe.config
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.exe
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.pdb
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.exe
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\bin\Debug\Eletrônica Software.pdb
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.csprojResolveAssemblyReference.cache
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica_Software.Frm_RCores.resources
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica_Software.Properties.Resources.resources
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Debug\Eletrônica Software.csproj.GenerateResource.Cache
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\bin\Debug\Resistores.exe.config

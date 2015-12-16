@@ -1,0 +1,22 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\bin\Release\Eletrônica Software.exe.config
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\bin\Release\Eletrônica Software.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\bin\Release\Eletrônica Software.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Frm_Pai.resources
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Frm_RCores.resources
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Properties.Resources.resources
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica Software.csproj.GenerateResource.Cache
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica Software.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica Software.pdb
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica Software.csprojResolveAssemblyReference.cache
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Frm_Sobre.resources
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Teste.resources
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Eletrônica Software\Eletrônica Software\bin\Release\DB.mdb
+D:\Projetos\Eletrônica Software\Eletrônica Software\bin\Release\Eletrônica Software.exe.config
+D:\Projetos\Eletrônica Software\Eletrônica Software\bin\Release\Eletrônica Software.exe
+D:\Projetos\Eletrônica Software\Eletrônica Software\bin\Release\Eletrônica Software.pdb
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica Software.csprojResolveAssemblyReference.cache
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Frm_RCores.resources
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Properties.Resources.resources
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica Software.csproj.GenerateResource.Cache
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica Software.exe
+D:\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica Software.pdb

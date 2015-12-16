@@ -1,0 +1,9 @@
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\bin\Release\Resistores.exe.config
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\bin\Release\Resistores.exe
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\bin\Release\Resistores.pdb
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Resistores.csprojResolveAssemblyReference.cache
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Frm_RCores.resources
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Eletrônica_Software.Properties.Resources.resources
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Resistores.csproj.GenerateResource.Cache
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Resistores.exe
+C:\Cristiano\Projetos\Eletrônica Software\Eletrônica Software\obj\Release\Resistores.pdb
