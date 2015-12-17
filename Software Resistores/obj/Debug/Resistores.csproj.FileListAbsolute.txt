@@ -17,3 +17,4 @@ C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistore
 C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.exe
 C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.pdb
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_Pai.resources
+C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_Serie.resources

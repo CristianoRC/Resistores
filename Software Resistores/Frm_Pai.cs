@@ -30,5 +30,14 @@ namespace SoftwareResistores
         {
 
         }
+
+        private void Btm_Serie_Click(object sender, EventArgs e)
+        {
+            Frm_Serie frm_Serie = new Frm_Serie();
+
+            frm_Serie.MdiParent = this;
+
+            frm_Serie.Show();
+        }
     }
 }

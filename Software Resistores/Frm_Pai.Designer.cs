@@ -115,6 +115,7 @@
             this.Btm_Serie.TabIndex = 4;
             this.Btm_Serie.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btm_Serie.UseVisualStyleBackColor = true;
+            this.Btm_Serie.Click += new System.EventHandler(this.Btm_Serie_Click);
             // 
             // Btm_Cores
             // 
