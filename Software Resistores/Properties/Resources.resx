@@ -118,23 +118,53 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Eletronica" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Eletronica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="rOuro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rOuro.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rAmarelo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rAmarelo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rAzul" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rAzul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Resistor-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Resistor-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="rBranco" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rBranco.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rCinza" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rCinza.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="rVermelho" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rVermelho.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="resl" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\resl.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rMarrom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rMarrom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eletronica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eletronica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rPrata" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rPrata.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rCinza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rCinza.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rPreto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rPreto.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Resistor3-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Resistor3-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rVioleta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rVioleta.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Resistor2-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Resistor2-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rVerde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rVerde.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rAmarelo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rAmarelo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rNada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rNada.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="resr" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\resr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,28 +172,13 @@
   <data name="rLaranja" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rLaranja.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rMarrom" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rMarrom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Resistor Filled-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Resistor Filled-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rNada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rNada.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="rAzul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rAzul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rOuro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rOuro.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rPrata" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rPrata.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rPreto" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rPreto.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rVerde" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rVerde.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rVermelho" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rVermelho.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rVioleta" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rVioleta.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Resistor3-1001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Resistor3-1001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

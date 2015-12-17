@@ -25,5 +25,10 @@ namespace SoftwareResistores
 
             frm_RCores.Show();
         }
+
+        private void Frm_Pai_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

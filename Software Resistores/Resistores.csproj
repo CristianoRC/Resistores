@@ -65,8 +65,11 @@
     <Compile Include="Frm_RCores.Designer.cs">
       <DependentUpon>Frm_RCores.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mista.cs" />
+    <Compile Include="Paralelo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serie.cs" />
     <EmbeddedResource Include="Frm_Pai.resx">
       <DependentUpon>Frm_Pai.cs</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +118,11 @@
     <None Include="Resources\rBranco.jpg" />
     <None Include="Resources\rAzul.jpg" />
     <None Include="Resources\rAmarelo.jpg" />
+    <None Include="Resources\Resistor-100.png" />
+    <None Include="Resources\Resistor Filled-100.png" />
+    <None Include="Resources\Resistor2-100.png" />
+    <None Include="Resources\Resistor3-100.png" />
+    <None Include="Resources\Resistor3-1001.png" />
     <Content Include="Tro.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

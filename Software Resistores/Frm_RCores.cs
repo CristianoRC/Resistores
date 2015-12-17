@@ -10,19 +10,13 @@ namespace SoftwareResistores
             InitializeComponent();
         }
 
+        Double Resultado = 0;
+        string Tolerancia = "";
+
         #region ComboBox 1 Cor
         private void Combo_1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string Cor_C1 = null;
-
-            if (string.IsNullOrEmpty(Combo_1.SelectedItem.ToString()))
-            {
-                MessageBox.Show("Por favor insira o valor na 1ª caixa de texto", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            else
-            {
-                Cor_C1 = Combo_1.SelectedItem.ToString();
-            }
+            string Cor_C1 = Combo_1.SelectedItem.ToString();
 
 
             switch (Cor_C1)
@@ -38,7 +32,6 @@ namespace SoftwareResistores
                     break;
                 case "Vermelho":
                     Cinta1.Image = Properties.Resources.rVermelho;
-
                     break;
                 case "Laranja":
                     Cinta1.Image = Properties.Resources.rLaranja;
@@ -54,7 +47,6 @@ namespace SoftwareResistores
                     break;
                 case "Azul":
                     Cinta1.Image = Properties.Resources.rAzul;
-
                     break;
                 case "Violeta":
                     Cinta1.Image = Properties.Resources.rVioleta;
@@ -74,21 +66,10 @@ namespace SoftwareResistores
 
         #endregion
 
-
         #region ComboBox 2 Cor 
         private void Combo_2_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string Cor_C2 = null;
-
-            if (string.IsNullOrEmpty(Combo_2.SelectedItem.ToString()))
-            {
-                MessageBox.Show("Por favor insira o valor na 2ª caixa de texto", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-            }
-            else
-            {
-                Cor_C2 = Combo_2.SelectedItem.ToString();
-            }
+            string Cor_C2 = Combo_2.SelectedItem.ToString();
 
             switch (Cor_C2)
             {
@@ -138,24 +119,13 @@ namespace SoftwareResistores
 
         #endregion
 
-
         #region ComboBox 3 Cor
         private void Combo_3_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string Cor_C3 = null;
-
-            if (string.IsNullOrEmpty(Combo_3.SelectedItem.ToString()))
-            {
-                MessageBox.Show("Por favor insira o valor na 3ª caixa de texto", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            else
-            {
-                Combo_3.SelectedItem.ToString();
-            }
+            string Cor_C3 = Combo_3.SelectedItem.ToString();
 
             switch (Cor_C3)
             {
-
                 case "Preto":
                     Cinta3.Image = Properties.Resources.rPreto;
 
@@ -194,32 +164,21 @@ namespace SoftwareResistores
                     break;
                 case "Branco":
                     Cinta3.Image = Properties.Resources.rBranco;
-
                     break;
             }
         }
 
         #endregion
 
-
         #region ComboBox 4 Cor
         private void Combo4_SelectedIndexChanged(object sender, EventArgs e)
         {
 
-            string Cor_C4 = null;
+            string Cor_C4 = Combo4.SelectedItem.ToString();
 
-            if (string.IsNullOrEmpty(Combo4.SelectedItem.ToString()))
-            {
-                MessageBox.Show("Por favor insira o valor na 4ª caixa de texto", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            else
-            {
-                Combo4.SelectedItem.ToString();
-            }
 
             switch (Cor_C4)
             {
-
                 case "Ouro":
                     Cinta4.Image = Properties.Resources.rOuro;
 
@@ -233,21 +192,15 @@ namespace SoftwareResistores
 
                     break;
             }
-
         }
 
         #endregion
 
+
         //-------------------------------------- Botão Calcular -----------------------------------------//
         #region Botão para Calcular
-
-
         private void button1_Click(object sender, EventArgs e)
         {
-
-            Double Resultado = 0;
-            string Tolerancia = "";
-
             try
             {
                 string Cor_C4 = Combo4.SelectedItem.ToString();
@@ -432,5 +385,6 @@ namespace SoftwareResistores
             }
         }
         #endregion
+
     }
 }
