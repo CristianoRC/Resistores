@@ -22,7 +22,7 @@ namespace SoftwareResistores
                     listResistores.Items.Add($"R{NumeroResistorAtual} {Txt_Resistor.Text} Ω");
                     paralelo.AdicionarResistor(Convert.ToDouble(Txt_Resistor.Text));
 
-                    Lbl_Req.Text = $"Resistência Total: {paralelo.ResistenciaEquivalente} Ω";
+                    Lbl_Req.Text = $"Resistência Total: {paralelo.ResistenciaEquivalente.ToString("0.000")} Ω";
                     Txt_Resistor.Clear();
 
                     NumeroResistorAtual++;

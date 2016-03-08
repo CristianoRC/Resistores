@@ -83,7 +83,7 @@ namespace SoftwareResistores
         {
             Tensao = Vab;
 
-            Corrente = Vab / resistenciaEquivalente;
+            Corrente = Vab / ResistenciaEquivalente;
 
             return Corrente;
         }

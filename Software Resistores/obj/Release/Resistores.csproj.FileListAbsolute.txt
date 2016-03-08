@@ -18,3 +18,15 @@ C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\SoftwareResisto
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\Resistores.csproj.GenerateResource.Cache
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\SoftwareResistores.Frm_Pai.resources
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Release\SoftwareResistores.Frm_Serie.resources
+D:\Resistores\Software Resistores\bin\Release\Resistores.exe.config
+D:\Resistores\Software Resistores\obj\Release\Resistores.exe
+D:\Resistores\Software Resistores\obj\Release\Resistores.pdb
+D:\Resistores\Software Resistores\bin\Release\Resistores.exe
+D:\Resistores\Software Resistores\bin\Release\Resistores.pdb
+D:\Resistores\Software Resistores\obj\Release\Resistores.csprojResolveAssemblyReference.cache
+D:\Resistores\Software Resistores\obj\Release\SoftwareResistores.Frm_Pai.resources
+D:\Resistores\Software Resistores\obj\Release\SoftwareResistores.Frm_RCores.resources
+D:\Resistores\Software Resistores\obj\Release\SoftwareResistores.Frm_Paralelo.resources
+D:\Resistores\Software Resistores\obj\Release\SoftwareResistores.Frm_Serie.resources
+D:\Resistores\Software Resistores\obj\Release\SoftwareResistores.Properties.Resources.resources
+D:\Resistores\Software Resistores\obj\Release\Resistores.csproj.GenerateResource.Cache
