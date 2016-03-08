@@ -3,14 +3,14 @@ using System.Windows.Forms;
 
 namespace SoftwareResistores
 {
-    public partial class Frm_Serie : Form
+    public partial class Frm_Paralelo : Form
     {
-        public Frm_Serie()
+        public Frm_Paralelo()
         {
             InitializeComponent();
         }
 
-        Serie serie = new Serie();
+        Paralelo paralelo = new Paralelo();
         uint NumeroResistorAtual = 0;
 
         private void Btm_Adicionar_Click(object sender, System.EventArgs e)
@@ -20,9 +20,9 @@ namespace SoftwareResistores
                 try
                 {
                     listResistores.Items.Add($"R{NumeroResistorAtual} {Txt_Resistor.Text} Ω");
-                    serie.AdicionarResistor(Convert.ToDouble(Txt_Resistor.Text));
+                    paralelo.AdicionarResistor(Convert.ToDouble(Txt_Resistor.Text));
 
-                    Lbl_Req.Text = $"Resistência Total: {serie.ResistenciaEquivalente} Ω";
+                    Lbl_Req.Text = $"Resistência Total: {paralelo.ResistenciaEquivalente} Ω";
                     Txt_Resistor.Clear();
 
                     NumeroResistorAtual++;
@@ -51,9 +51,9 @@ namespace SoftwareResistores
 
                 ListaParcial = VariavelParcial.Split();
 
-                serie.RemoverResistor(Double.Parse(ListaParcial[1])); //Removendo o valor do Req = Soma dos resistor
+                paralelo.RemoverResistor(Double.Parse(ListaParcial[1])); //Removendo o valor do Req = Soma dos resistor
 
-                Lbl_Req.Text = $"Resistência Total: {serie.ResistenciaEquivalente} Ω";
+                Lbl_Req.Text = $"Resistência Total: {paralelo.ResistenciaEquivalente} Ω";
             }
             catch (Exception exc)
             {
@@ -65,7 +65,7 @@ namespace SoftwareResistores
         {
             try
             {
-                double resultado = serie.CalcularCorrente(double.Parse(Txt_Tensão.Text));
+                double resultado = paralelo.CalcularCorrente(double.Parse(Txt_Tensão.Text));
 
                 Lbl_CorrenteTotal.Text = $"Corrente: {resultado.ToString("0.000")} A";
             }

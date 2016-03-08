@@ -32,8 +32,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.Btm_Mista = new System.Windows.Forms.Button();
             this.Btm_Paralelo = new System.Windows.Forms.Button();
             this.Btm_Serie = new System.Windows.Forms.Button();
             this.Btm_Cores = new System.Windows.Forms.Button();
@@ -68,28 +66,6 @@
             this.label3.TabIndex = 7;
             this.label3.Text = "Associação em paralelo";
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(45, 506);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(89, 13);
-            this.label4.TabIndex = 10;
-            this.label4.Text = "Associação mista";
-            // 
-            // Btm_Mista
-            // 
-            this.Btm_Mista.BackgroundImage = global::SoftwareResistores.Properties.Resources.Resistor3_1001;
-            this.Btm_Mista.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Btm_Mista.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.Btm_Mista.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btm_Mista.Location = new System.Drawing.Point(40, 414);
-            this.Btm_Mista.Name = "Btm_Mista";
-            this.Btm_Mista.Size = new System.Drawing.Size(99, 89);
-            this.Btm_Mista.TabIndex = 9;
-            this.Btm_Mista.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.Btm_Mista.UseVisualStyleBackColor = true;
-            // 
             // Btm_Paralelo
             // 
             this.Btm_Paralelo.BackgroundImage = global::SoftwareResistores.Properties.Resources.Resistor_Filled_100;
@@ -102,6 +78,7 @@
             this.Btm_Paralelo.TabIndex = 6;
             this.Btm_Paralelo.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.Btm_Paralelo.UseVisualStyleBackColor = true;
+            this.Btm_Paralelo.Click += new System.EventHandler(this.Btm_Paralelo_Click);
             // 
             // Btm_Serie
             // 
@@ -138,16 +115,14 @@
             this.panel1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel1.Controls.Add(this.Btm_Cores);
-            this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Controls.Add(this.Btm_Mista);
             this.panel1.Controls.Add(this.Btm_Serie);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.Btm_Paralelo);
             this.panel1.Location = new System.Drawing.Point(1, 1);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(200, 610);
+            this.panel1.Size = new System.Drawing.Size(200, 512);
             this.panel1.TabIndex = 11;
             // 
             // Frm_Pai
@@ -155,7 +130,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClientSize = new System.Drawing.Size(1115, 614);
+            this.ClientSize = new System.Drawing.Size(1115, 512);
             this.Controls.Add(this.panel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.IsMdiContainer = true;
@@ -178,8 +153,6 @@
         private System.Windows.Forms.Button Btm_Serie;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button Btm_Paralelo;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button Btm_Mista;
         private System.Windows.Forms.Panel panel1;
     }
 }

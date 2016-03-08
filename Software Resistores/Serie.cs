@@ -4,23 +4,21 @@ namespace SoftwareResistores
 {
     public class Serie
     {
-        private double req;
+        private double resistenciaEquivalente;
         private double corrente;
         private double tensao;
 
-        public double Req
-        {
-            get
-            {
-                return req;
-            }
-        }
 
         public double Corrente
         {
             get
             {
                 return corrente;
+            }
+
+            set
+            {
+                corrente = value;
             }
         }
 
@@ -30,19 +28,32 @@ namespace SoftwareResistores
             {
                 return tensao;
             }
+
+            set
+            {
+                tensao = value;
+            }
         }
 
-        /// <summary>
-        /// Adicionando Valores a variavel de resistencia total;
-        /// </summary>
-        /// <param name="Valor"></param>
-        /// <returns></returns>
+        public double ResistenciaEquivalente
+        {
+            get
+            {
+                return resistenciaEquivalente;
+            }
+
+            set
+            {
+                resistenciaEquivalente = value;
+            }
+        }
+
         public string AdicionarResistor(double Valor)
         {
             string saida = "";
             try
             {
-                req += Valor;
+                resistenciaEquivalente += Valor;
             }
             catch (Exception exc)
             {
@@ -52,17 +63,12 @@ namespace SoftwareResistores
             return saida;
         }
 
-        /// <summary>
-        /// Removendo Valores a variavel de resistencia total;
-        /// </summary>
-        /// <param name="Valor"></param>
-        /// <returns></returns>
         public string RemoverResistor(double Valor)
         {
             string saida = "";
             try
             {
-                req -= Valor;
+                resistenciaEquivalente -= Valor;
             }
             catch (Exception exc)
             {
@@ -73,17 +79,11 @@ namespace SoftwareResistores
             return saida;
         }
 
-        /// <summary>
-        /// Cálculando a corrente que passa pelo circuito
-        /// </summary>
-        /// <param name="Req"></param>
-        /// <param name="Vab"></param>
-        /// <returns></returns>
         public double CalcularCorrente(double Vab)
         {
-            tensao = Vab;
+            Tensao = Vab;
 
-            corrente = Vab / Req;
+            Corrente = Vab / resistenciaEquivalente;
 
             return Corrente;
         }

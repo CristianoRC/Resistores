@@ -18,3 +18,15 @@ C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.exe
 C:\Cristiano\Projetos\Resistores\Software Resistores\bin\Debug\Resistores.pdb
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_Pai.resources
 C:\Cristiano\Projetos\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_Serie.resources
+D:\Resistores\Software Resistores\bin\Debug\Resistores.exe.config
+D:\Resistores\Software Resistores\obj\Debug\Resistores.exe
+D:\Resistores\Software Resistores\obj\Debug\Resistores.pdb
+D:\Resistores\Software Resistores\bin\Debug\Resistores.exe
+D:\Resistores\Software Resistores\bin\Debug\Resistores.pdb
+D:\Resistores\Software Resistores\obj\Debug\Resistores.csprojResolveAssemblyReference.cache
+D:\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_Pai.resources
+D:\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_RCores.resources
+D:\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_Serie.resources
+D:\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Properties.Resources.resources
+D:\Resistores\Software Resistores\obj\Debug\Resistores.csproj.GenerateResource.Cache
+D:\Resistores\Software Resistores\obj\Debug\SoftwareResistores.Frm_Paralelo.resources

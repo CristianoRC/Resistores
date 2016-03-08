@@ -65,13 +65,18 @@
     <Compile Include="Frm_RCores.Designer.cs">
       <DependentUpon>Frm_RCores.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_Paralelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Paralelo.Designer.cs">
+      <DependentUpon>Frm_Paralelo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_Serie.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Frm_Serie.Designer.cs">
       <DependentUpon>Frm_Serie.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mista.cs" />
     <Compile Include="Paralelo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -81,6 +86,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_RCores.resx">
       <DependentUpon>Frm_RCores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Paralelo.resx">
+      <DependentUpon>Frm_Paralelo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_Serie.resx">
       <DependentUpon>Frm_Serie.cs</DependentUpon>

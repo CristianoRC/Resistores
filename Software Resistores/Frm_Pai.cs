@@ -39,5 +39,14 @@ namespace SoftwareResistores
 
             frm_Serie.Show();
         }
+
+        private void Btm_Paralelo_Click(object sender, EventArgs e)
+        {
+            Frm_Paralelo frm_paralelo = new Frm_Paralelo();
+
+            frm_paralelo.MdiParent = this;
+
+            frm_paralelo.Show();
+        }
     }
 }
