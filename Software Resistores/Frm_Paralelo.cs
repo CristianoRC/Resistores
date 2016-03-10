@@ -20,7 +20,7 @@ namespace SoftwareResistores
                 try
                 {
                     listResistores.Items.Add($"R{NumeroResistorAtual} {Txt_Resistor.Text} Ω");
-                    paralelo.AdicionarResistor(Convert.ToDouble(Txt_Resistor.Text));
+                    paralelo.AdicionarResistor(Convert.ToDecimal(Txt_Resistor.Text));
 
                     Lbl_Req.Text = $"Resistência Total: {paralelo.ResistenciaEquivalente.ToString("0.000")} Ω";
                     Txt_Resistor.Clear();
@@ -51,9 +51,9 @@ namespace SoftwareResistores
 
                 ListaParcial = VariavelParcial.Split();
 
-                paralelo.RemoverResistor(Double.Parse(ListaParcial[1])); //Removendo o valor do Req = Soma dos resistor
+                paralelo.RemoverResistor(Decimal.Parse(ListaParcial[1])); //Removendo o valor do Req = Soma dos resistor
 
-                Lbl_Req.Text = $"Resistência Total: {paralelo.ResistenciaEquivalente} Ω";
+                Lbl_Req.Text = $"Resistência Total: {paralelo.ResistenciaEquivalente.ToString("0.000")} Ω";
             }
             catch (Exception exc)
             {
@@ -65,9 +65,9 @@ namespace SoftwareResistores
         {
             try
             {
-                double resultado = paralelo.CalcularCorrente(double.Parse(Txt_Tensão.Text));
+                decimal resultado = paralelo.CalcularCorrente(Convert.ToDecimal(Txt_Tensão.Text));
 
-                Lbl_CorrenteTotal.Text = $"Corrente: {resultado.ToString("0.000")} A";
+                Lbl_CorrenteTotal.Text = $"Corrente: {resultado.ToString("0.0000")} A";
             }
             catch (Exception exc)
             {

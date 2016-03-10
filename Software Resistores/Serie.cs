@@ -4,12 +4,12 @@ namespace SoftwareResistores
 {
     public class Serie
     {
-        private double resistenciaEquivalente;
-        private double corrente;
-        private double tensao;
+        private decimal resistenciaEquivalente;
+        private decimal corrente;
+        private decimal tensao;
 
 
-        public double Corrente
+        public decimal Corrente
         {
             get
             {
@@ -22,7 +22,7 @@ namespace SoftwareResistores
             }
         }
 
-        public double Tensao
+        public decimal Tensao
         {
             get
             {
@@ -35,7 +35,7 @@ namespace SoftwareResistores
             }
         }
 
-        public double ResistenciaEquivalente
+        public decimal ResistenciaEquivalente
         {
             get
             {
@@ -48,7 +48,7 @@ namespace SoftwareResistores
             }
         }
 
-        public string AdicionarResistor(double Valor)
+        public string AdicionarResistor(decimal Valor)
         {
             string saida = "";
             try
@@ -63,7 +63,7 @@ namespace SoftwareResistores
             return saida;
         }
 
-        public string RemoverResistor(double Valor)
+        public string RemoverResistor(decimal Valor)
         {
             string saida = "";
             try
@@ -79,7 +79,7 @@ namespace SoftwareResistores
             return saida;
         }
 
-        public double CalcularCorrente(double Vab)
+        public decimal CalcularCorrente(decimal Vab)
         {
             Tensao = Vab;
 

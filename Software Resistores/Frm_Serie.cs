@@ -13,16 +13,16 @@ namespace SoftwareResistores
         Serie serie = new Serie();
         uint NumeroResistorAtual = 0;
 
-        private void Btm_Adicionar_Click(object sender, System.EventArgs e)
+        private void Btm_Adicionar_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(Txt_Resistor.Text))
             {
                 try
                 {
                     listResistores.Items.Add($"R{NumeroResistorAtual} {Txt_Resistor.Text} Ω");
-                    serie.AdicionarResistor(Convert.ToDouble(Txt_Resistor.Text));
+                    serie.AdicionarResistor(Convert.ToDecimal(Txt_Resistor.Text));
 
-                    Lbl_Req.Text = $"Resistência Total: {serie.ResistenciaEquivalente} Ω";
+                    Lbl_Req.Text = $"Resistência Total: {serie.ResistenciaEquivalente.ToString("0.000")} Ω";
                     Txt_Resistor.Clear();
 
                     NumeroResistorAtual++;
@@ -51,9 +51,9 @@ namespace SoftwareResistores
 
                 ListaParcial = VariavelParcial.Split();
 
-                serie.RemoverResistor(Double.Parse(ListaParcial[1])); //Removendo o valor do Req = Soma dos resistor
+                serie.RemoverResistor(Decimal.Parse(ListaParcial[1])); //Removendo o valor do Req = Soma dos resistor
 
-                Lbl_Req.Text = $"Resistência Total: {serie.ResistenciaEquivalente} Ω";
+                Lbl_Req.Text = $"Resistência Total: {serie.ResistenciaEquivalente.ToString("0.000")} Ω";
             }
             catch (Exception exc)
             {
@@ -65,7 +65,7 @@ namespace SoftwareResistores
         {
             try
             {
-                double resultado = serie.CalcularCorrente(double.Parse(Txt_Tensão.Text));
+                decimal resultado = serie.CalcularCorrente(Decimal.Parse(Txt_Tensão.Text));
 
                 Lbl_CorrenteTotal.Text = $"Corrente: {resultado.ToString("0.000")} A";
             }
